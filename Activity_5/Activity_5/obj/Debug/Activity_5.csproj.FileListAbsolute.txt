@@ -1,0 +1,10 @@
+C:\Users\squar\source\repos\Activity_5\Activity_5\bin\Debug\Activity_5.exe.config
+C:\Users\squar\source\repos\Activity_5\Activity_5\bin\Debug\Activity_5.exe
+C:\Users\squar\source\repos\Activity_5\Activity_5\bin\Debug\Activity_5.pdb
+C:\Users\squar\source\repos\Activity_5\Activity_5\obj\Debug\Activity_5.csproj.AssemblyReference.cache
+C:\Users\squar\source\repos\Activity_5\Activity_5\obj\Debug\Activity_5.Form1.resources
+C:\Users\squar\source\repos\Activity_5\Activity_5\obj\Debug\Activity_5.Properties.Resources.resources
+C:\Users\squar\source\repos\Activity_5\Activity_5\obj\Debug\Activity_5.csproj.GenerateResource.cache
+C:\Users\squar\source\repos\Activity_5\Activity_5\obj\Debug\Activity_5.csproj.CoreCompileInputs.cache
+C:\Users\squar\source\repos\Activity_5\Activity_5\obj\Debug\Activity_5.exe
+C:\Users\squar\source\repos\Activity_5\Activity_5\obj\Debug\Activity_5.pdb
