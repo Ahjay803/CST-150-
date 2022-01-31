@@ -1,0 +1,10 @@
+C:\Users\squar\source\repos\weight on mars\weight on mars\bin\Debug\weight on mars.exe.config
+C:\Users\squar\source\repos\weight on mars\weight on mars\bin\Debug\weight on mars.exe
+C:\Users\squar\source\repos\weight on mars\weight on mars\bin\Debug\weight on mars.pdb
+C:\Users\squar\source\repos\weight on mars\weight on mars\obj\Debug\weight on mars.csproj.AssemblyReference.cache
+C:\Users\squar\source\repos\weight on mars\weight on mars\obj\Debug\weight_on_mars.Form1.resources
+C:\Users\squar\source\repos\weight on mars\weight on mars\obj\Debug\weight_on_mars.Properties.Resources.resources
+C:\Users\squar\source\repos\weight on mars\weight on mars\obj\Debug\weight on mars.csproj.GenerateResource.cache
+C:\Users\squar\source\repos\weight on mars\weight on mars\obj\Debug\weight on mars.csproj.CoreCompileInputs.cache
+C:\Users\squar\source\repos\weight on mars\weight on mars\obj\Debug\weight on mars.exe
+C:\Users\squar\source\repos\weight on mars\weight on mars\obj\Debug\weight on mars.pdb
